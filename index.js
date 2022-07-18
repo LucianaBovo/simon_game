@@ -1,6 +1,6 @@
-var userArray = [];
-var computerArray = [];
-var gameStarted = false;
+let userArray = [];
+let computerArray = [];
+let gameStarted = false;
 
 function checkIfArraysAreEqual(){
     for (let i = 0;  i < userArray.length; i++){
